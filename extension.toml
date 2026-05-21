@@ -3,5 +3,5 @@ name = "Fineorite"
 version = "0.1.1"
 schema_version = 1
 authors = ["Finorion <mooo@duck.com>"]
-description = "☄️ Calm, medium contrast, dark and flat theme"
+description = "☄️ Calm, medium contrast, dark and flat theme for Zed editor"
 repository = "https://github.com/Finorion/zed-fineorite"
