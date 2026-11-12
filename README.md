@@ -6,4 +6,4 @@
 
 ![Fineorite theme for Zed editor - preview](assets/screenshot.png)
 
-Calm, medium contrast, dark and flat theme for [Zed editor](https://zed.dev/extensions/fineorite-theme)
+Calm, medium contrast, dark and light flat theme for [Zed editor](https://zed.dev/extensions/fineorite-theme)
